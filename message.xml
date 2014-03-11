@@ -1,6 +1,6 @@
-next sendseqnum is 4
+next sendseqnum is 3
 
-####################### 1-3 STICKY ############################################
+####################### 1-2 STICKY ############################################
 <message>
 <sendseqnum>1</sendseqnum>
 <line1>Welcome to OpenView Status</line1>
@@ -12,14 +12,7 @@ next sendseqnum is 4
 <sendseqnum>2</sendseqnum>
 <line1>If you need help email us at [COLOR aqua]openviewhelp@gmail.com[/COLOR]</line1>
 <line2>Sometimes we will put a new video into [COLOR yellow]OpenView Howto[/COLOR]</line2>
-<line3>to help you.  Let us know what you need.</line3>
-</message>
-
-<message>
-<sendseqnum>3</sendseqnum>
-<line1>This new and exciting technology is changing every day. We</line1>
-<line2>are always looking for new people to help us sell and</line2>
-<line3>support OpenView. Interested?  [COLOR aqua]openviewhelp@gmail.com[/COLOR] :)</line3>
+<line3>to help you.</line3>
 </message>
 
 ###############################################################################
