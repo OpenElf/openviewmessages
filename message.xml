@@ -1,4 +1,4 @@
-next sendseqnum is 4
+next sendseqnum is 6
 
 ####################### 1-2 STICKY ############################################
 <message>
@@ -18,7 +18,7 @@ next sendseqnum is 4
 ###############################################################################
 
 <message>
-<sendseqnum>3</sendseqnum>
+<sendseqnum>5</sendseqnum>
 <line1>New [COLOR yellow]OpenView Keyboard[/COLOR] icon will auto update soon.</line1>
 <line2>Checkout these keyboard controls, especially the [COLOR aqua]A key[/COLOR] that </line2>
 <line3>will enable you to easily sync audio and video!</line3>
