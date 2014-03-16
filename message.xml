@@ -1,4 +1,7 @@
-next sendseqnum is 6
+next sendseqnum is 7
+
+the sendseqnum is incremented by 2, for example if you send message 5 then the
+next sendseqnum will be 7
 
 ####################### 1-2 STICKY ############################################
 <message>
