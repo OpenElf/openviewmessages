@@ -21,11 +21,7 @@
 <thumbnail>nill</thumbnail>
 </dir>
 
-<dir>
-<name>[COLOR magenta]No content in 1Channel ... every folder empty ... cause is 1Channel using software robot to check if you are human! ... see [/COLOR][COLOR yellow]OpenView Howto for fix [/COLOR][COLOR aqua]12th March 2014[/COLOR]</name>
-<link>nill</link>
-<thumbnail>nill</thumbnail>
-</dir>
+
 
 <dir>
 <name>[COLOR yellow]Some of the EarthCams cause OpenView to hang, you will need to reboot [/COLOR][COLOR aqua]2nd March 2014[/COLOR]</name>
@@ -33,29 +29,21 @@
 <thumbnail>nill</thumbnail>
 </dir>
 
+
+<dir>
+<name>[COLOR lime]IMPORTANT .... UPDATE TO VERSION 1.0.10 NOW....SEE OPENVIEW HOWTO VIDEO ....[/COLOR]</name>
+<link>nill</link>
+<thumbnail>nill</thumbnail>
+</dir>
+
+
 <dir>
 <name>[COLOR lime]MashUp .... BillionUploads server works on third attempt .... HugeFiles server issuing captchas, just try a few times and they will go[/COLOR]</name>
 <link>nill</link>
 <thumbnail>nill</thumbnail>
 </dir>
 
-<dir>
-<name>[COLOR lime]Icefilms .... BillionUploads server works .... Many new servers added [/COLOR]</name>
-<link>nill</link>
-<thumbnail>nill</thumbnail>
-</dir>
 
-<dir>
-<name>[COLOR lime]1Channel .... many servers not working because code is being worked on[/COLOR]</name>
-<link>nill</link>
-<thumbnail>nill</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR lime]General .... Some 180Upload server captchas are too hard to read, they come and go![/COLOR]</name>
-<link>nill</link>
-<thumbnail>nill</thumbnail>
-</dir>
 
 <dir>
 <name>[COLOR lime]General .... Buffering is more likely at weekends (Sundays!) because of heavier traffic.[/COLOR]</name>
