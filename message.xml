@@ -1,7 +1,7 @@
 next sendseqnum is 7
 
 the sendseqnum is incremented by 2, for example if you send message 5 then the
-next sendseqnum will be 7
+next sendseqnum will be 9
 
 ####################### 1-2 STICKY ############################################
 <message>
@@ -25,4 +25,11 @@ next sendseqnum will be 7
 <line1>New [COLOR yellow]OpenView Keyboard[/COLOR] icon will auto update soon.</line1>
 <line2>Checkout these keyboard controls, especially the [COLOR aqua]A key[/COLOR] that </line2>
 <line3>will enable you to easily sync audio and video!</line3>
+</message>
+
+<message>
+<sendseqnum>7</sendseqnum>
+<line1>Select the [COLOR yellow]OpenView Howto[/COLOR] icon.</line1>
+<line2>Watch the [COLOR aqua]update OpenView to v1.0.10[/COLOR] video. </line2>
+<line3>Then do the update please, it is needed!</line3>
 </message>
